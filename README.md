@@ -4,4 +4,4 @@ NPM   : 2106654971
 
 Kelas : C
 
-Hobi  : Tidur
+Hobi  : Makan
